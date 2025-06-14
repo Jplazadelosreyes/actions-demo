@@ -1,3 +1,5 @@
+const sum = require('./sum.js');
+
 const sum = require('./sum');
 
 TextDecoderStream('Suma de dos numeros', () => {
